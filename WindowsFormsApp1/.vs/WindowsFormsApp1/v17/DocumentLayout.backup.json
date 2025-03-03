@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\All\\BaiTap\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "D:\\All\\BaiTap1\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E9F8970-24A0-4487-BFE0-09BC6DEADFB6}|WindowsFormsApp1.csproj|d:\\all\\baitap\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3E9F8970-24A0-4487-BFE0-09BC6DEADFB6}|WindowsFormsApp1.csproj|d:\\all\\baitap1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E9F8970-24A0-4487-BFE0-09BC6DEADFB6}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9F8970-24A0-4487-BFE0-09BC6DEADFB6}|WindowsFormsApp1.csproj|D:\\All\\BaiTap\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E9F8970-24A0-4487-BFE0-09BC6DEADFB6}|WindowsFormsApp1.csproj|D:\\All\\BaiTap1\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9F8970-24A0-4487-BFE0-09BC6DEADFB6}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\All\\BaiTap\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\All\\BaiTap1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\All\\BaiTap\\WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\All\\BaiTap1\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIA2wBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\All\\BaiTap\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\All\\BaiTap1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\All\\BaiTap\\WindowsFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "D:\\All\\BaiTap1\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T08:17:32.445Z",
